@@ -1,0 +1,151 @@
+origin,first city,second city,third city,fourth city,distance,political,points,probabilityDistribution
+Kuala Lumpur,ShangHai,Seoul,Canberra, ,13031.51802852271
+Kuala Lumpur,Seoul,ShangHai,Canberra, ,13418.660421698165
+Kuala Lumpur,ShangHai,Tokyo,Canberra, ,13462.732638679052
+Kuala Lumpur,Jakarta,ShangHai,Canberra, ,13564.239496667236
+Kuala Lumpur,ShangHai,Jakarta,Canberra, ,13582.51830381803
+Kuala Lumpur,Seoul,Tokyo,Canberra, ,13723.283577432801
+Kuala Lumpur,ShangHai,Seoul,Tokyo,Canberra,13724.650358301114
+Kuala Lumpur,Jakarta,Seoul,Canberra, ,14894.371479070945
+Kuala Lumpur,Tokyo,Seoul,Canberra, ,14900.843200118634
+Kuala Lumpur,Jakarta,ShangHai,Seoul,Canberra,14907.999061935336
+Kuala Lumpur,Jakarta,Tokyo,Canberra, ,14922.401212800687
+Kuala Lumpur,Tokyo,ShangHai,Canberra, ,15027.434654540337
+Kuala Lumpur,ShangHai,Tokyo,Seoul,Canberra,15087.018784454514
+Kuala Lumpur,Seoul,ShangHai,Tokyo,Canberra,15193.634597122606
+Kuala Lumpur,Jakarta,Seoul,ShangHai,Canberra,15282.880653114713
+Kuala Lumpur,Tokyo,Seoul,ShangHai,Canberra,15289.352374162401
+Kuala Lumpur,Seoul,Jakarta,Canberra, ,15299.792679397193
+Kuala Lumpur,ShangHai,Seoul,Jakarta,Canberra,15301.159460265506
+Kuala Lumpur,Seoul,ShangHai,Jakarta,Canberra,15313.420262261585
+Kuala Lumpur,Jakarta,ShangHai,Tokyo,Canberra,15339.213672091677
+Kuala Lumpur,Seoul,Tokyo,ShangHai,Canberra,15474.161177629969
+Kuala Lumpur,Jakarta,Seoul,Tokyo,Canberra,15587.50380884935
+Kuala Lumpur,Tokyo,ShangHai,Seoul,Canberra,16371.194219808436
+Kuala Lumpur,Tokyo,Jakarta,Canberra, ,16505.382035812767
+Kuala Lumpur,Jakarta,Tokyo,Seoul,Canberra,16546.68735857615
+Kuala Lumpur,Jakarta,Tokyo,ShangHai,Canberra,16673.278812997854
+Kuala Lumpur,ShangHai,Tokyo,Jakarta,Canberra,16691.557620148647
+Kuala Lumpur,Tokyo,ShangHai,Jakarta,Canberra,16922.19449510376
+Kuala Lumpur,Seoul,Tokyo,Jakarta,Canberra,16952.1085589024
+Kuala Lumpur,Tokyo,Seoul,Jakarta,Canberra,17170.48463186143
+Kuala Lumpur,ShangHai,Jakarta,Seoul,Canberra,21900.03304320232
+Kuala Lumpur,ShangHai,Jakarta,Tokyo,Canberra,21928.062776932064
+Kuala Lumpur,Seoul,Jakarta,ShangHai,Canberra,22287.175436377773
+Kuala Lumpur,Moscow,Jakarta,Canberra, ,22826.415488659783
+Kuala Lumpur,Moscow,ShangHai,Canberra, ,22884.0824326546
+Kuala Lumpur,Moscow,Seoul,Canberra, ,23148.77532651895
+Kuala Lumpur,Tokyo,Jakarta,ShangHai,Canberra,23492.764792793347
+Kuala Lumpur,Moscow,Seoul,ShangHai,Canberra,23537.284500562717
+Kuala Lumpur,Moscow,Tokyo,Canberra, ,23560.233353144475
+Kuala Lumpur,Seoul,Jakarta,Tokyo,Canberra,23645.337152511223
+Kuala Lumpur,Moscow,Seoul,Tokyo,Canberra,23841.907656297353
+Kuala Lumpur,Moscow,ShangHai,Seoul,Canberra,24227.841997922704
+Kuala Lumpur,Moscow,ShangHai,Tokyo,Canberra,24659.05660807904
+Kuala Lumpur,Moscow,ShangHai,Jakarta,Canberra,24778.842273218022
+Kuala Lumpur,Tokyo,Jakarta,Seoul,Canberra,24822.896775197056
+Kuala Lumpur,Jakarta,Moscow,Canberra, ,24971.578387727197
+Kuala Lumpur,ShangHai,Moscow,Canberra, ,25047.524138872814
+Kuala Lumpur,Moscow,Tokyo,Seoul,Canberra,25184.519498919937
+Kuala Lumpur,Jakarta,Moscow,ShangHai,Canberra,25249.16358753292
+Kuala Lumpur,ShangHai,Moscow,Jakarta,Canberra,25267.442394683716
+Kuala Lumpur,Moscow,Tokyo,ShangHai,Canberra,25311.11095334164
+Kuala Lumpur,Moscow,Seoul,Jakarta,Canberra,25418.416758261745
+Kuala Lumpur,Jakarta,Moscow,Seoul,Canberra,25513.85648139727
+Kuala Lumpur,ShangHai,Moscow,Seoul,Canberra,25589.802232542886
+Kuala Lumpur,Seoul,Moscow,Canberra, ,25699.35942591262
+Kuala Lumpur,ShangHai,Seoul,Moscow,Canberra,25700.726206780928
+Kuala Lumpur,Seoul,Moscow,Jakarta,Canberra,25919.277681723517
+Kuala Lumpur,Jakarta,Moscow,Tokyo,Canberra,25925.31450802279
+Kuala Lumpur,Seoul,Moscow,ShangHai,Canberra,25976.944625718337
+Kuala Lumpur,ShangHai,Moscow,Tokyo,Canberra,26001.260259168408
+Kuala Lumpur,Seoul,Moscow,Tokyo,Canberra,26653.09554620821
+Kuala Lumpur,Seoul,ShangHai,Moscow,Canberra,26778.42609731637
+Kuala Lumpur,Moscow,Tokyo,Jakarta,Canberra,26789.05833461407
+Kuala Lumpur,Jakarta,ShangHai,Moscow,Canberra,26924.00517228544
+Kuala Lumpur,Tokyo,Moscow,Canberra, ,27288.377075223972
+Kuala Lumpur,Paris,Moscow,Canberra, ,27390.661367833047
+Kuala Lumpur,Paris,Jakarta,Canberra, ,27398.3303488685
+Kuala Lumpur,ShangHai,Tokyo,Moscow,Canberra,27474.55265955985
+Kuala Lumpur,Tokyo,Moscow,Jakarta,Canberra,27508.29533103487
+Kuala Lumpur,Moscow,Paris,Canberra, ,27530.780360883284
+Kuala Lumpur,Jakarta,Seoul,Moscow,Canberra,27563.579657329166
+Kuala Lumpur,Tokyo,Moscow,ShangHai,Canberra,27565.96227502969
+Kuala Lumpur,Tokyo,Seoul,Moscow,Canberra,27570.051378376855
+Kuala Lumpur,Moscow,Paris,Jakarta,Canberra,27586.710043710762
+Kuala Lumpur,Paris,Moscow,Jakarta,Canberra,27610.579623643946
+Kuala Lumpur,Paris,ShangHai,Canberra, ,27627.302349150654
+Kuala Lumpur,Paris,Moscow,ShangHai,Canberra,27668.246567638766
+Kuala Lumpur,Seoul,Tokyo,Moscow,Canberra,27735.103598313603
+Kuala Lumpur,Paris,Seoul,Canberra, ,27806.688235643483
+Kuala Lumpur,Moscow,Paris,ShangHai,Canberra,27815.682043992914
+Kuala Lumpur,Tokyo,Moscow,Seoul,Canberra,27830.65516889404
+Kuala Lumpur,Paris,Moscow,Seoul,Canberra,27932.939461503116
+Kuala Lumpur,Moscow,Paris,Seoul,Canberra,27995.067930485744
+Kuala Lumpur,Paris,Tokyo,Canberra, ,28090.838358613517
+Kuala Lumpur,Paris,Seoul,ShangHai,Canberra,28195.19740968725
+Kuala Lumpur,Moscow,Paris,Tokyo,Canberra,28279.21805345578
+Kuala Lumpur,Paris,Moscow,Tokyo,Canberra,28344.397488128638
+Kuala Lumpur,Tokyo,ShangHai,Moscow,Canberra,28387.200330158543
+Kuala Lumpur,Paris,Seoul,Tokyo,Canberra,28499.820565421887
+Kuala Lumpur,Jakarta,Tokyo,Moscow,Canberra,28934.22123368149
+Kuala Lumpur,Paris,ShangHai,Seoul,Canberra,28971.061914418755
+Kuala Lumpur,Paris,ShangHai,Tokyo,Canberra,29402.276524575096
+Kuala Lumpur,Paris,ShangHai,Jakarta,Canberra,29522.062189714074
+Kuala Lumpur,Jakarta,Paris,Canberra, ,29683.612240986153
+Kuala Lumpur,Paris,Tokyo,Seoul,Canberra,29715.12450438898
+Kuala Lumpur,Jakarta,Paris,Moscow,Canberra,29731.87294277818
+Kuala Lumpur,Moscow,Jakarta,ShangHai,Canberra,29813.798245640362
+Kuala Lumpur,Paris,Tokyo,ShangHai,Canberra,29841.715958810684
+Kuala Lumpur,Jakarta,Moscow,Paris,Canberra,29895.8615157616
+Kuala Lumpur,ShangHai,Paris,Canberra, ,29930.8630484191
+Kuala Lumpur,Jakarta,Paris,ShangHai,Canberra,29968.513924095787
+Kuala Lumpur,ShangHai,Moscow,Paris,Canberra,29971.807266907213
+Kuala Lumpur,ShangHai,Paris,Moscow,Canberra,29979.123750211125
+Kuala Lumpur,ShangHai,Paris,Jakarta,Canberra,29986.79273124658
+Kuala Lumpur,Paris,Seoul,Jakarta,Canberra,30076.32966738628
+Kuala Lumpur,Jakarta,Paris,Seoul,Canberra,30147.899810588617
+Kuala Lumpur,ShangHai,Paris,Seoul,Canberra,30395.150618021566
+Kuala Lumpur,Jakarta,Paris,Tokyo,Canberra,30432.04993355865
+Kuala Lumpur,Seoul,Paris,Canberra, ,30497.391328087386
+Kuala Lumpur,ShangHai,Seoul,Paris,Canberra,30498.7581089557
+Kuala Lumpur,Seoul,Paris,Moscow,Canberra,30545.652029879413
+Kuala Lumpur,Seoul,Paris,Jakarta,Canberra,30553.321010914868
+Kuala Lumpur,Seoul,Moscow,Paris,Canberra,30623.64255394702
+Kuala Lumpur,ShangHai,Paris,Tokyo,Canberra,30679.300740991603
+Kuala Lumpur,Seoul,Paris,ShangHai,Canberra,30782.29301119702
+Kuala Lumpur,Moscow,Jakarta,Seoul,Canberra,31143.93022804407
+Kuala Lumpur,Moscow,Jakarta,Tokyo,Canberra,31171.959961773813
+Kuala Lumpur,Seoul,Paris,Tokyo,Canberra,31245.829020659883
+Kuala Lumpur,Paris,Tokyo,Jakarta,Canberra,31319.663340083116
+Kuala Lumpur,Seoul,ShangHai,Paris,Canberra,31661.765006862657
+Kuala Lumpur,Jakarta,ShangHai,Paris,Canberra,31807.34408183173
+Kuala Lumpur,Tokyo,Paris,Canberra, ,31959.10107374325
+Kuala Lumpur,ShangHai,Jakarta,Moscow,Canberra,31977.239951858573
+Kuala Lumpur,Tokyo,Paris,Moscow,Canberra,32007.361775535275
+Kuala Lumpur,Tokyo,Paris,Jakarta,Canberra,32015.03075657073
+Kuala Lumpur,ShangHai,Tokyo,Paris,Canberra,32145.276658079136
+Kuala Lumpur,Tokyo,Moscow,Paris,Canberra,32212.660203258372
+Kuala Lumpur,Tokyo,Paris,ShangHai,Canberra,32244.002756852886
+Kuala Lumpur,Jakarta,Seoul,Paris,Canberra,32361.611559503934
+Kuala Lumpur,Tokyo,Seoul,Paris,Canberra,32368.083280551622
+Kuala Lumpur,Seoul,Tokyo,Paris,Canberra,32405.82759683288
+Kuala Lumpur,Tokyo,Paris,Seoul,Canberra,32423.388643345716
+Kuala Lumpur,Tokyo,ShangHai,Paris,Canberra,33270.53923970483
+Kuala Lumpur,Jakarta,Tokyo,Paris,Canberra,33604.94523220077
+Kuala Lumpur,Seoul,Jakarta,Moscow,Canberra,33694.51432743773
+Kuala Lumpur,Paris,Jakarta,ShangHai,Canberra,34385.71310584908
+Kuala Lumpur,Tokyo,Jakarta,Moscow,Canberra,34900.10368385331
+Kuala Lumpur,Paris,Jakarta,Seoul,Canberra,35715.84508825279
+Kuala Lumpur,Paris,Jakarta,Tokyo,Canberra,35743.874821982536
+Kuala Lumpur,ShangHai,Jakarta,Paris,Canberra,36689.273805117526
+Kuala Lumpur,Seoul,Jakarta,Paris,Canberra,38406.548180696685
+Kuala Lumpur,Tokyo,Jakarta,Paris,Canberra,39612.13753711227
+Kuala Lumpur,Paris,Seoul,Moscow,Canberra,40475.896413901704
+Kuala Lumpur,Moscow,Seoul,Paris,Canberra,40616.015406951934
+Kuala Lumpur,Paris,ShangHai,Moscow,Canberra,40987.06802476886
+Kuala Lumpur,Moscow,ShangHai,Paris,Canberra,41127.18701781909
+Kuala Lumpur,Paris,Tokyo,Moscow,Canberra,42102.658379494314
+Kuala Lumpur,Moscow,Tokyo,Paris,Canberra,42242.77737254456
+Kuala Lumpur,Paris,Jakarta,Moscow,Canberra,45793.051996909046
+Kuala Lumpur,Moscow,Jakarta,Paris,Canberra,45933.17098995928

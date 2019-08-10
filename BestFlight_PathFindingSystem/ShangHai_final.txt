@@ -1,0 +1,9 @@
+origin first city second city third city fourth city distance political points probabilityDistribution
+Kuala Lumpur Jakarta Seoul ShangHai   7343.109745674424 -3.544999999999999 73.4 1.0
+Kuala Lumpur Jakarta Seoul Tokyo ShangHai 9398.610501606228 -3.544999999999999 70.45 0.9598092643051771
+Kuala Lumpur Jakarta Tokyo ShangHai   8733.507905557566 -11.540000000000006 69.01 0.9401907356948229
+Kuala Lumpur Jakarta Tokyo Seoul ShangHai 8995.42562517963 -11.540000000000006 68.63 0.9350136239782015
+Kuala Lumpur Jakarta Canberra ShangHai   14516.627647126943 13.23 68.14 0.9283378746594004
+Kuala Lumpur Tokyo Seoul ShangHai   7349.581466722112 -27.305000000000007 66.26 0.9027247956403269
+Kuala Lumpur Seoul Tokyo ShangHai   7534.39027018968 -27.305000000000007 66.0 0.8991825613079019
+Kuala Lumpur Seoul Jakarta ShangHai   14347.404528937483 -3.544999999999999 63.35 0.8630790190735694

@@ -1,0 +1,9 @@
+origin,first city,second city,third city,fourth city,distance,political,points,probabilityDistribution
+Kuala Lumpur,Jakarta,ShangHai,Seoul, ,6490.602958882881,25.240000000000006,83.2,0.1
+Kuala Lumpur,Jakarta,ShangHai,Tokyo,Seoul,8546.103714814684,25.240000000000006,80.24,0.09644000000000001
+Kuala Lumpur,ShangHai,Tokyo,Seoul, ,6669.622681402059,1.4800000000000004,75.82,0.09113
+Kuala Lumpur,Tokyo,ShangHai,Seoul, ,7953.798116755981,1.4800000000000004,73.96,0.08889000000000001
+Kuala Lumpur,ShangHai,Jakarta,Seoul, ,13482.636940149863,25.240000000000006,73.11,0.08787
+Kuala Lumpur,Jakarta,Tokyo,Seoul, ,8129.291255523696,-11.540000000000006,69.8,0.08389
+Kuala Lumpur,Jakarta,Tokyo,ShangHai,Seoul,9599.6422752135,-11.540000000000006,67.68,0.08135
+Kuala Lumpur,Jakarta,Canberra,Seoul, ,14994.252842739112,13.23,67.32,0.08091000000000001
